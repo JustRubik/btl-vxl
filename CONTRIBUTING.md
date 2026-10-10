@@ -31,3 +31,24 @@ Một báo cáo lỗi tốt là một báo cáo lỗi chứa:
 
 Báo cáo lỗi có thể là lỗi logic, lỗi hiệu năng, hoặc bất kể lỗi nào tuân theo quy tắc `hành vi xảy ra không đáp ứng kì vọng`.
 
+## Commits
+
+Các git commits cần theo message-rules sau để giúp những người khác hiểu rõ bạn đã làm gì:
+
+`[tag]:[verbs][dirs][details]`
+
+Trong đó: 
+
+- `[tag]`: có thể là tên nhánh (branch), tên tag (tag release), tên phiên bản (version).
+- `[verbs]`: add, edit, delete, fix
+- `[dirs]`: tên folders hoặc files mà `[verbs]` ảnh hưởng đến
+- `[details]`: chi tiết việc đã làm (viết ngắn gọn, và có thể bỏ nếu thấy không cần thiết)
+
+Ví dụ:
+
+`First commit: init, add & edit docs/`
+
+`JustRubik: fix #123 (to free my mind)`
+
+*\#123 là mã của issue* 
+
