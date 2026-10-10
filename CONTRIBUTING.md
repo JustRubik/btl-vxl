@@ -46,9 +46,11 @@ Trong đó:
 
 Ví dụ:
 
-`First commit: init, add & edit docs/`
+- `First commit: init, add & edit docs/`
 
-`JustRubik: fix #123 (to free my mind)`
+- `JustRubik: fix #123 (to free my mind)`
 
 *\#123 là mã của issue* 
+
+- `edit docs/`
 
