@@ -1,0 +1,6 @@
+# Output folders
+build/
+output/
+
+# Test folders
+test/
